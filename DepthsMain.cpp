@@ -88,7 +88,7 @@ int main()
         else if(action == y)
         {
             cout<<"Exiting"<<endl;
-            break;
+            return 0;
         }
         else
         {
