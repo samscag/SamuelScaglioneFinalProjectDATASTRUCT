@@ -20,3 +20,5 @@ Once these three files have been compiled, enter ./DepthsMain in the terminal an
 Dependancies: 
 Classes such as stringstream and ifstream are used to read data from the files in order to create the graphs. ifstream allows a file to be read and opened. Stringstream breaks up a single line from a txt. and allows a user to save data from that line into something like an array. 
 
+Open Issues:
+
