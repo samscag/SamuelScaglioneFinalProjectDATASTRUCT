@@ -22,3 +22,4 @@ Classes such as stringstream and ifstream are used to read data from the files i
 
 Open Issues:
 
+There could be more messages that display to the user when they search an area with no items in it. A randomized function could output messages based on what rooms are adjacent and which aren't, instead of two seperate messages for each direction. Otherwise, damage output could be more interesting. Messages describing the user missed or landed a critical hit could show up if the user lands a 0 for their damage or they land their max damage. These would be great improvements to the game's aesthetics. 
