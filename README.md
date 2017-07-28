@@ -15,7 +15,7 @@ Every level .txt file and adjacency matrix .txt file must be in the same folder 
 
 g++ -g -std=c++11 TheDepths.cpp DepthsMain.cpp -o DepthsMain
 
-Once these three files have been compiled, enter ./DepthsMain in the terminal and in the folder containing all of the program's files to run the program. Once you select your difficulty, the graph representing the dungeon will be built and you can play the game. 
+Once these three files have been compiled, enter ./DepthsMain in the terminal and in the folder containing all of the program's files to run the program. Once you select your difficulty, the graph representing the dungeon will be built and you can play the game. The .txt files for every level need to be included in the same folder that the game is run from.
 
 Dependancies: 
 Classes such as stringstream and ifstream are used to read data from the files in order to create the graphs. ifstream allows a file to be read and opened. Stringstream breaks up a single line from a txt. and allows a user to save data from that line into something like an array. 
